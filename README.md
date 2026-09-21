@@ -1,7 +1,5 @@
 # AWS-AIB-C01-2026-AI-Business-Strategist-Practice-Questions
 
-# AWS AIB-C01 – AI Business Strategist
-
 A short preparation guide for the **AWS Certified AI Business Strategist (AIB-C01)** exam.
 
 ## Key Topics
